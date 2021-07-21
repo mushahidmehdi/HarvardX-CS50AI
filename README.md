@@ -1,5 +1,4 @@
 ![GitHub Pipenv locked Python version (branch)](https://img.shields.io/github/pipenv/locked/python-version/mushahidmehdi/Full-Stack-Web-Application/main)
-![APM](https://img.shields.io/apm/l/vim-mode?style=plastic)
 
 
 ![Liberapay goal progress](https://img.shields.io/liberapay/goal/Changaco)
