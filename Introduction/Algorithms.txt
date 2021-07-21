@@ -1,0 +1,27 @@
+Algorithms 
+
+Uninformed Search 
+1- depth_for_search => stack data structure
+2- breath_for_search => queue data structure 
+
+Informed Search
+3- greedy_best_for_search => expands node based on nodes closest to the goal (manhattan distance) using heuristic fun.h(n)
+
+4- A*Search
+search algorithem that expands node with lowest value of g(n) + h(n)
+g(n) = cost to reach the goal 
+h(n) = essential cost to reach the goal.
+
+Limitation:
+1- The heuristic function nerver should over estimate.
+2- The steps that has taken addition to heuristic steps about to be taken should always consistent. 
+
+ 
+Adversial Algorithm
+1- Minimax
+On the basis of given state what action should an agent make to increase the probabilty of its winning meanwhile considering the best move the oponent and making compeltly opposite of the oponent.
+Alpha beta pruning => optimize the moves
+2- Depth-Limited-Move:
+	after a certain numbers of depth don't move foward
+evalutation function: estimates the expected Utility from current/given state.
+
