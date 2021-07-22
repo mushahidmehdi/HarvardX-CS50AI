@@ -91,7 +91,10 @@ def shortest_path(source, target):
 
     If no possible path, returns None.
     """
+    # To determine whether the node has been visited or not
     visited = set([])
+
+    # keep track of all visited nodes are their parent
     parents = {}
     frontier = [source]
 
@@ -99,13 +102,17 @@ def shortest_path(source, target):
         person = frontier.pop(0)
         if person == target:
             break
+
         visited.add(person)
-    
-    
-    
+
+        for (movie_id, person_id) in neighbors_for_person(person):
+            if not person_id in frontier and not person_id in visited:
+                frontier.append(person_id)
+                parents[person_id] = (movie_id, person)
+                
 
 
-
+    
 
 
 def person_id_for_name(name):
