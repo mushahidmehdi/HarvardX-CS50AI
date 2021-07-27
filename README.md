@@ -7,9 +7,21 @@
 # HarvardX-CS50AI
 CS50's Introduction to Artificial Intelligence with Python on edX is Havard University introductory course for students who is interested to learn about artificial intelligence, CS50 is prerequisites.
 
-##### This course mainly covers:
-##### - Seaching => given a problem find a best solution
-##### - Knowledge => drawn conclusion from a data that solved complex problems
-##### - Uncertanity => how to handle outliers and uncertain situations.
-##### - Langauage => how different language play different role in AI
+The course covered 19 assignments in total, including 7 quiz assignments and 12 programming assignments. The programming assignments are included in individual folders and can be easily redeployed using pip with the requirements if needed. The problems solved in the assignments are described below. The quiz assignments are out of scope of this repository.
+
+### Week 0 - Search
+
+The initial module covered traditional algorithms aimed at finding preferrably optimal or near-optimal ways of completing a task that can be converted to a problem of "finding a path between two points pertaining minimal cost incurred".
+
+Algorithms covered:
+- Depth-First Search
+- Breadth-First Search
+- Greedy best-first search
+- A * search
+- MiniMax
+- Alpha-Beta Pruning
+- Depth-Limited Minimax
+
+
+
 
