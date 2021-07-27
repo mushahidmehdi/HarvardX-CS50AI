@@ -29,6 +29,7 @@ Algorithms covered:
 The first project utilizes the breadth-first search algorithm to find the so-called "degrees of separation" between two actors, also known as the "Six degrees of Kevin Bacon".
 
 Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
+
 My [Submissions](https://github.com/mushahidmehdi/HarvardX-CS50AI/tree/main/Search)
 
 ### Project 0b: Tic-Tac-Toe
