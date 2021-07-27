@@ -23,17 +23,19 @@ Algorithms covered:
 - Depth-Limited Minimax
 
 
+
 ### Project 0a: Degrees
 
 The first project utilizes the breadth-first search algorithm to find the so-called "degrees of separation" between two actors, also known as the "Six degrees of Kevin Bacon".
 
 Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
+My [Submissions](https://github.com/mushahidmehdi/HarvardX-CS50AI/tree/main/Search)
 
 ### Project 0b: Tic-Tac-Toe
 A project showcasing a simple game of Tic-Tac-Toe with an AI opponent utilizing the minimax algorithm to have an optimal strategy.
 
 Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
 
-
+My [Submissions](https://github.com/mushahidmehdi/HarvardX-CS50AI/tree/main/Search)
 
 
