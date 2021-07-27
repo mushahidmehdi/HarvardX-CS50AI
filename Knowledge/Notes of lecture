@@ -1,0 +1,32 @@
+Propositional Logic: states a fact;
+	logical symbols => represent facts. (S, R, Q)
+	Connectives symbols => to relates the fact (not, and or)
+	Implications => implies only if the second condition to be true.
+	Biconditional => if only and only be true.
+	model => assign a fact to each symbol either true or false.
+	entailment => alpha entails beta; means that both are true
+	infernce => dreving new sentence from old.
+
+Algorithms:
+	Model Check:
+		Enumerate through all the possible models.
+		KB = True and query = True.
+	Inference Rule:
+		set premis and reach the conclusion.
+	
+	Important concepts.
+	And Elimination:
+	Double Negation Eimination
+	inpication elimination: if then => or.
+	biconditionl elimination.	
+	Demorgans law:
+	moving negation inside.
+	Distributive property.
+
+	
+
+		
+
+
+
+ 
