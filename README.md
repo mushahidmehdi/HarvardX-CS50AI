@@ -32,7 +32,8 @@ Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects
 
 My [Submissions](https://github.com/mushahidmehdi/HarvardX-CS50AI/tree/main/Search)
 
-### Project 0b: Tic-Tac-Toe
+### Project 0b: Tic-Tac-Toe.
+
 A project showcasing a simple game of Tic-Tac-Toe with an AI opponent utilizing the minimax algorithm to have an optimal strategy.
 
 Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
