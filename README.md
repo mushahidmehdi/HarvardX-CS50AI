@@ -20,7 +20,7 @@ Algorithms covered:
 - A * search
 - MiniMax
 - Alpha-Beta Pruning
-- Depth-Limited Minimax
+- Depth-Limited Minimax 
 
 
 
