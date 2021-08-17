@@ -15,7 +15,7 @@ The initial module covered traditional algorithms aimed at finding preferrably o
 
 Algorithms covered:
 - Depth-First Search
-- Breadth-First Search
+- Breadth-First Search 
 - Greedy best-first search
 - A * search
 - MiniMax
