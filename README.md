@@ -5,7 +5,7 @@
 ![Arch Linux package](https://img.shields.io/archlinux/v/core/x86_64/pacman)
 
 # HarvardX-CS50AI
-CS50's Introduction to Artificial Intelligence with Python on edX is Havard University introductory course for students who is interested to learn about artificial intelligence, CS50 is prerequisites.
+CS50's Introduction to Artificial Intelligence with Python on edX is Havard University introductory course for students who is interested to learn about artificial intelligence, `CS50 is prerequisites`.
 
 The course covered 19 assignments in total, including 7 quiz assignments and 12 programming assignments. The programming assignments are included in individual folders and can be easily redeployed using pip with the requirements if needed. The problems solved in the assignments are described below. The quiz assignments are out of scope of this repository.
 
