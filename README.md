@@ -14,13 +14,13 @@ The course covered 19 assignments in total, including 7 quiz assignments and 12 
 The initial module covered traditional algorithms aimed at finding preferrably optimal or near-optimal ways of completing a task that can be converted to a problem of "finding a path between two points pertaining minimal cost incurred".
 
 Algorithms covered:
-- Depth-First Search
-- Breadth-First Search 
-- Greedy best-first search
-- A * search
-- MiniMax
-- Alpha-Beta Pruning
-- Depth-Limited Minimax 
+- `Depth-First Search`
+-` Breadth-First Search `
+-` Greedy best-first search`
+-` A * search`
+-` MiniMax`
+- `Alpha-Beta Pruning`
+-` Depth-Limited Minimax `
 
 
 
