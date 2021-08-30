@@ -40,4 +40,3 @@ Full Assignment on Harvard's [website](https://cs50.harvard.edu/ai/2020/projects
 
 My [Submissions](https://github.com/mushahidmehdi/HarvardX-CS50AI/tree/main/Search)
 
-
