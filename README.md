@@ -22,7 +22,7 @@ Algorithms covered:
 - `Alpha-Beta Pruning`
 - `Depth-Limited Minimax ` 
 
- 
+  
 
 ### Project 0a: Degrees
 
