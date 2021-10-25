@@ -23,7 +23,7 @@ Algorithms covered:
 - `Depth-Limited Minimax ` 
 
   
-
+ 
 ### Project 0a: Degrees
 
 The first project utilizes the breadth-first search algorithm to find the so-called "degrees of separation" between two actors, also known as the "Six degrees of Kevin Bacon".
