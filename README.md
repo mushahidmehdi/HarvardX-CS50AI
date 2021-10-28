@@ -3,7 +3,7 @@
 
 ![Liberapay goal progress](https://img.shields.io/liberapay/goal/Changaco)
 ![Arch Linux package](https://img.shields.io/archlinux/v/core/x86_64/pacman)
-
+ 
 # HarvardX-CS50AI
 CS50's Introduction to Artificial Intelligence with Python on edX is Havard University introductory course for students who is interested to learn about artificial intelligence, `CS50 is prerequisites`.
 
