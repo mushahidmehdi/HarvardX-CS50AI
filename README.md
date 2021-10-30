@@ -2,7 +2,7 @@
 
  ![GitHub Pipenv locked Python version (branch)](https://img.shields.io/github/pipenv/locked/python-version/mushahidmehdi/Full-Stack-Web-Application/main)
  
-
+  
 ![Liberapay goal progress](https://img.shields.io/liberapay/goal/Changaco)
 ![Arch Linux package](https://img.shields.io/archlinux/v/core/x86_64/pacman)
  
